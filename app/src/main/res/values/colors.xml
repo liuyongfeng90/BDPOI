@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/white</color>
+    <color name="textColorPrimary">@color/black</color>
+    <color name="colorPrimaryDark">@color/white</color>
+    <color name="colorAccent">@color/holo_purple_dark</color>
+    <color name="textColorGray">#999999</color>
+    <color name="hindColor">#80ffffff</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="setText">#333333</color>
+    <color name="red">#bf360c</color>
+    <color name="ripple_red">#ffbf5232</color>
+    <color name="material_teal">@color/material_deep_teal_500</color>
+    <color name="ripple_material_teal">@color/material_deep_teal_500</color>
+    <color name="blue">#304f9f</color>
+    <color name="grey">@color/material_blue_grey_800</color>
+    <color name="light">@color/primary_material_light</color>
+    <color name="black">#333333</color>
+    <color name="windowBackgroundColor">#333333</color>
+    <color name="black_translucent">#80000000</color>
+    <color name="black_bg">#ff4b4b4b</color>
+    <color name="gray_bg">#f3f2f2</color>
+    <color name="white_text">#fff8f8f8</color>
+    <color name="green_text">#ff1ec399</color>
+    <color name="black_text">#ff4b4b4b</color>
+    <color name="green_light">#1ec399</color>
+    <color name="white">#FFFFFF</color>
+    <color name="alpha_white">#A0FFFFFF</color>
+    <color name="loading_bg">#b4000000</color>
+    <color name="gray01">#ededed</color>
+    <color name="gray">#999999</color>
+    <color name="item_title_text">#afafaf</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent25">#00ffffff</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="half_black">#808080</color>
+    <color name="item_line">#ededed</color><!-- 分割线色-->
+    <!-- 浅灰 -->
+    <color name="LightGray">#FFE2E1E1</color>
+    <color name="black_semi_transparent">#B2000000</color>
+    <!-- 透明黑 -->
+    <color name="TransparentBlack">#b4000000</color>
+    <!-- A light Holo shade of green -->
+    <color name="holo_green_light">#ff99cc00</color>
+    <!-- A Holo shade of purple -->
+    <color name="holo_purple">#2196F3</color>
+    <!-- A dark Holo shade of orange -->
+    <color name="holo_orange_dark">#ffff8800</color>
+    <!-- A dark Holo shade of red -->
+    <color name="holo_red_dark">#ffcc0000</color>
+    <color name="holo_purple_dark">#FF4790</color>
+    <color name="yellow">#BFE0ED88</color>
+    <color name="color_success">#3CCD88</color>
+    <color name="color_error">#f44336</color>
+    <color name="translucence75">#40000000</color>
+    <color name="translucence50">#50000000</color>
+    <color name="lineColor">#dddddd</color>
+    <color name="no_sumb_bg">#FF85A5</color>
+    <color name="e_font">#333333</color>
+
+    <color name="tran">#00ffffff</color>
+    <color name="green">#33c176</color>
+    <color name="half_333333">#80333333</color>
+
+    <color name="little_blue">#2082d2</color>
+
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="black_1">#111111</color>
+
+</resources>
+
